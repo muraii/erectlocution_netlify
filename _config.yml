@@ -1,7 +1,7 @@
 # Setup
-title: Noir
-tagline: a dark mode friendly Jekyll theme
-url: https://noir.essentialenemy.com
+title: erectlocution
+tagline: QED
+url: http://erectlocution.com
 paginate: 1
 baseurl: ""
 permalink: :title/
@@ -37,10 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
-
+  name: Daniel Black
+  url: https://twitter.com/muraii
+  email: erectlocution@gmail.com
 # Custom vars
 version: 1.3.0
 github:
