@@ -1,3 +1,7 @@
+# My Note
+
+I'm hanging on to this content for now as a quick reference should I get a couple weeks down the way and need to figure out how I broke a thing.
+
 ### Demo
 
 You can see a live demo of Noir: [https://noir.essentialenemy.com](https://noir.essentialenemy.com)
